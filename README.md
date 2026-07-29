@@ -48,7 +48,7 @@ Tersedia tiga pilihan moda transportasi dengan optimasi rute khusus:
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/username/mymap.git
+   git clone https://github.com/FaniFadhil/MapPM
    ```
 2. **Setup API Key**:
    - Dapatkan API Key dari [Google Cloud Console](https://console.cloud.google.com/).
